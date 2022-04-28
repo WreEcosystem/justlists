@@ -10,6 +10,14 @@
             "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
         },
         {
+            "symbol":"WRE",
+            "address":"TXrPGuk9ZcV6XyZ69DVfGwNfYJwrenrVcd",
+            "chainId":1,
+            "decimals":18,
+            "name":"WRE Ecosystem",
+            "logoURI":"https://drive.google.com/file/d/1mTj-sKic7RE-lBExqbimHjhksiOd0YyI/view"
+        },
+        {
             "symbol":"BTC",
             "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
             "chainId":1,
